@@ -1,4 +1,4 @@
-# API Encuestas Estudiantes (JWT + Docker)
+# API Encuestas Estudiantes
 
 API RESTful para la gestión de encuestas y votaciones del Centro de Estudiantes. Permite a los administradores crear encuestas complejas y a los estudiantes responderlas de forma segura.
 
