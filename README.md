@@ -74,9 +74,9 @@ apiJWTEncuestasEstudiantes/
 ---
 
 Proyecto realizado por:
-
+```
 Luis Cerda - Desarrollador Backend - Tester
 Sebastian Olguin - Desarrollador Backend - Tester
 Braulio Palma - Desarrollador Backend - Tester
-
+```
 Tecnico en Informatica Universidad Catolica de Temuco.
