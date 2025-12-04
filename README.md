@@ -79,4 +79,4 @@ Luis Cerda - Desarrollador Backend - Tester
 Sebastian Olguin - Desarrollador Backend - Tester
 Braulio Palma - Desarrollador Backend - Tester
 ```
-Tecnico en Informatica Universidad Catolica de Temuco.
+Tecnico en Informatica - Universidad Catolica de Temuco.
