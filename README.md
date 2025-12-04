@@ -72,4 +72,11 @@ apiJWTEncuestasEstudiantes/
 -   **Admin**: Para crear encuestas, necesitas un usuario con rol `admin`. Regístrate normalmente y luego cambia el rol manualmente en la base de datos (usando MongoDB Compass en `localhost:27018`) o usa un script de seed (no incluido por defecto).
 
 ---
-Desarrollado para el Centro de Estudiantes.
+
+Proyecto realizado por:
+
+Luis Cerda - Desarrollador Backend - Tester
+Sebastian Olguin - Desarrollador Backend - Tester
+Braulio Palma - Desarrollador Backend - Tester
+
+Tecnico en Informatica Universidad Catolica de Temuco.
