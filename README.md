@@ -62,8 +62,7 @@ apiJWTEncuestasEstudiantes/
 ├── routes/             # Rutas de la API (Auth, Surveys)
 ├── server.js           # Punto de entrada del servidor
 ├── Dockerfile          # Configuración de la imagen Docker
-├── docker-compose.yml  # Orquestación de servicios
-└── README.md           # Este archivo
+└── docker-compose.yml  # Orquestación de servicios
 ```
 
 ## ⚠️ Notas Importantes
